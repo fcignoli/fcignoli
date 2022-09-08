@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 I am a physics student at the Faculty of Sciences of the University of Buenos Aires. My topics of interest lies in the intersection between physics (particularly dynamics) and machine learning.
 
-Currently, I am working on the development of a position detection algorithm by analyzing audio signals using Deep Learning and dimensionality reduction techniques. The project aims to automatically detect bird positions through their songs in their natural environment. 
-
 <!--My CV can be downloaded from here [cv_cignoli_felipe_2022.pdf](https://github.com/fcignoli/fcignoli/files/7629562/cv_cignoli_felipe_2021.pdf). -->
 
 You can contact me by twitter @fecgnl.

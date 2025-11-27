@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a physics at the Faculty of Sciences of the University of Buenos Aires. My topics of interest lies in the intersection between physics (particularly dynamics) and machine learning.
+I am a physics at the Faculty of Sciences of the University of Buenos Aires. My topics of interest lies in the intersection between physics (particularly dynamics), biology and machine learning.
 
 <!--My CV can be downloaded from here [cv_cignoli_felipe_2022.pdf](https://github.com/fcignoli/fcignoli/files/7629562/cv_cignoli_felipe_2021.pdf). -->
 
-You can contact me by twitter @fecgnl.
+You can contact me by twitter @lowdimrep.
 
 
